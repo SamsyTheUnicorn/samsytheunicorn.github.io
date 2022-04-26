@@ -16,7 +16,7 @@ A guide on how to use Poser Hotkeys Plus to add different poser packs to Licenti
 6. You will now have to run Nemesis Unlimited Behavior Engine in MO2, if you receive a message saying *"Changes in file detected. Engine update is required to be performed"* when trying to launch the engine, press Update Engine and then re-open the application once it's completed the update. <br> Similarly to Poser Hotkeys Data Generator, this application has issues with real-time protection software. However, if you have followed these steps, you should now be able to run Nemesis, and update your animations without issue.
 
 ### SAVE FILES BEWARE
-This guide should be considered experimental as we investigate claims that Poser Hotkeys can be detrimental to save health.
+This guide should be considered experimental as we investigate claims that Poser Hotkeys can be detrimental to save health. <br> It's recommended only to use 20,000 animations max, but it's safer to leave some headroom. I am currently testing what happens in Licentia with a 20,000+ animation list using the aforementioned recommended Poser Packs.
 
 ### THANK YOU
 To SlightlyCubed#8313 and iAmMe#3782 for helping me discover Poser Hotkeys Plus and learn more about adding new poser packs to Skyrim SE.
