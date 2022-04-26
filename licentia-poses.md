@@ -11,6 +11,8 @@ A guide on how to use Poser Hotkeys Plus to add different poser packs to Licenti
 
 5. Time to make your poser packs strong and independent! In Poser Hotkeys Data Generator, which you should have open after mapping the Stock Game folder, unselect all Posers that start with *"0Sex_"*, *"_ESG"*, *"ODefeat"*, or *"SlappaEFF"*. You should now be left with only the Posers from the packs you added enabled. Now hit the Generate Poser Data button, if you receive an *"Access to the path "" is denied"* error, then you need to disable your Realtime Protection, or preferably set up an exception, and run MO2 as an admin. <br> Once you have finished generating Poser data, close out the window and there will be files in your overwrite, create a mod using these titled *"Poser Data"* and load it after Poser Hotkeys Plus SSE.
 
+![Posers enabled in Poser HotKeys Data Generator](https://github.com/SamsyTheUnicorn/samsytheunicorn.github.io/blob/main/licentia-poses-img1.png?raw=true)
+
 6. You will now have to run Nemesis Unlimited Behavior Engine in MO2, if you receive a message saying *"Changes in file detected. Engine update is required to be performed"* when trying to launch the engine, press Update Engine and then re-open the application once it's completed the update. <br> Similarly to Poser Hotkeys Data Generator, this application has issues with real-time protection software. However, if you have followed these steps, you should now be able to run Nemesis, and update your animations without issue.
 
 ### SAVE FILES BEWARE
