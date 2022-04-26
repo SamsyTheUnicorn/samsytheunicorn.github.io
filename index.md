@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SamsyTheUnicorn/samsytheunicorn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamsyTheUnicorn/samsytheunicorn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## WELCOME
+Here you can find guides and mods from SamsyTheUnicorn for Skyrim Special Edition.
+### GUIDES:
+- **Licentia Additions**: Guides specifically made for adding content to [Licentia](https://github.com/cacophony-wj/LeS), the Wabbajack "Skyrim meets Game of Thrones" mod list.
+### MODS:
+- [**SamsyTheUnicorn's High Poly Character Compendium**](https://www.nexusmods.com/skyrimspecialedition/mods/49703) (STU's HPCC): A collection of RaceMenu preset "jslot"s for use with High Poly Head and a few other, popular, character generation mods. Contains at least one preset for every vanilla race, both male and female options are available.
+- **SamsyTheUnicorn's 3BA Body Bonanza** (STU's 3BABB): A trio of BodySlide presets designed to be used at 100 weight with OBody. Contains a preset for a slim chiseled body, a curvy body, and an over the top body.
