@@ -1,5 +1,5 @@
 ## SamsyTheUnicorn's 3BA Body Bonanza
-A trio of BodySlide presets designed to be used at 100 weight with OBody. Contains a preset for a slim chiseled body, a leggy body, and an over the top body.
+A trio of BodySlide presets designed to be used at 100 weight with OBody. Contains a preset for a slim chiseled body, a curvier body, and an over the top body.
 
 You can download the ready to install archive [here](https://github.com/SamsyTheUnicorn/samsytheunicorn.github.io/blob/main/SamsyTheUnicorn%27s%203BA%20Body%20Bonanza.7z)! These presets are being shown off in the [Licentia](https://github.com/cacophony-wj/LeS) Wabbajack Mod List, and using the [REALORE ULTIMA](https://www.nexusmods.com/skyrimspecialedition/mods/65577) skin textures.
 
