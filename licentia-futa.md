@@ -1,5 +1,3 @@
-<title> STU | Futa </title>
-
 ## Futa
 
 > *A guide on how to add futanari options to Licentia, create blended textures, and tweak OAlign/OStim to resolve mis-alignment issues.*
