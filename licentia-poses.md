@@ -1,22 +1,42 @@
-## POSES
-A guide on how to use Poser Hotkeys Plus to add different poser packs to Licentia, and convert packs to be used ESP-less with Poser Hotkeys Plus.
+## Poses
 
-1. First step is unfortunately the most painful... You have to disable VioLens in the left pane of the mod list and then hide any plugins that report "Missing Master". There is a conflict between Poser Hotkey Plus and VioLens that I have yet to find a fix for.
+> *A guide on how to use Poser Hotkeys Plus to add different poser packs to Licentia, and convert packs to be used ESP-less with Poser Hotkeys Plus.*
 
-2. Now for the fun! Download *"Poser Hotkeys Plus SSE v2.5.1"*. Now you have to choose what Poser Packs you want to use, here are the ones I would recommend: <br> - [Halo Poser SE 1.8](https://www.loverslab.com/files/file/5051-halo-poser-se/), 3764 unique poses, perfect for all your screen-archery beauty shots (Use the *"00 - Normal Version.7z"* file). <br> - [Flufy Fox Poser for PoserHotkey Plus SE](https://www.nexusmods.com/skyrimspecialedition/mods/52338), pack that features 28 animated poses for making GIFs in Licentia. <br> - [GSPoses](https://www.loverslab.com/files/file/8148-gsposes-slal/), pack that contains some futa poses, for the fellow degenerates (Use the *"GSPoses SE 24 04.7z"* file). <br> - [GomaPero Poses SE 14.1](https://www.loverslab.com/files/file/4917-gomapero-poses-se/), 1134 poses, some of these require objects, but they are a great collection for some action poses. <br> - [Hedy's JoJo Poses](https://www.nexusmods.com/skyrimspecialedition/mods/54490), no comment.
+### VioLens
 
-3. Now that you have the pose packs downloaded, install Poser Hotkeys Plus as a FOMOD in MO2 with the following choices: <br> - Mfg Console: *"Mfg Fix"* <br> - Optional Poser Presets: *"GomaPero Poses v14"* and *"Halo's Poser S1.8"* (Assuming you downloaded the same packs as me, this will differ based on what you downloaded). <br> Move the *"Poser Hotkeys.esp"* under *"3BBB.esp"* in your load order.
+VioLens will conflict with Poser Hotkeys, it will also create issues with my [Combat Overhaul](https://samsytheunicorn.github.io/licentia-combat)... You can clear out the mod and it's dependancies by following these steps:
 
-4. Install the poser packs you downloaded, for each one, hide the plugins as these will be redundant once we complete this step. Make sure you load *"Poser Hotkeys Plus SSE"* after your poser packs in the mod list. <br> Go to the LE page for [Poser Hotkeys](https://www.nexusmods.com/skyrim/mods/72623) and download *"PoserDataGen"* manually from the Optional Files. Extract this somewhere and back in MO2, add *"PoserDataGen.exe"* as an executable. Run the application and it should ask you to verify the game location, change the Skyrim Directory to your .\Licentia\Stock Game folder.
+- <b>VioLens - A Killmove Mod</b>, found under the Melee separator, disable the full mod.
+- <b>TUDM Patch Collection</b>, found under the Merges & Patches separator, double-click and move to the Optional ESPs tab. Select <i>TUDM - VioLens Patch.esp</i> and hide it as an optional ESP.
+- <b>Licentia Patches</b>, found under the Merges & Patches separator, double-click and move to the Optional ESPs tab. Select <i>CACO CR - CGO vs Slide.esp</i>, <i>CACO CR - LOTD vs CGO.esp</i>, <i>CACO CR - VioLens vs CGO.esp</i>, <i>CACO CR - ZIA vs CGO.esp</i>, and <i>CACO CR - BriDO vs CGO</i> then hide then as an optional ESP.
 
-5. Time to make your poser packs strong and independent! In Poser Hotkeys Data Generator, which you should have open after mapping the Stock Game folder, unselect all Posers that start with *"0Sex_"*, *"_ESG"*, *"ODefeat"*, or *"SlappaEFF"*. You should now be left with only the Posers from the packs you added enabled. Now hit the Generate Poser Data button, if you receive an *"Access to the path "" is denied"* error, then you need to disable your Realtime Protection, or preferably set up an exception, and run MO2 as an admin. <br> Once you have finished generating Poser data, close out the window and there will be files in your overwrite, create a mod using these titled *"Poser Data"* and load it after Poser Hotkeys Plus SSE.
+### [Poser Hotkeys Plus SSE](https://www.nexusmods.com/skyrimspecialedition/mods/17743)
 
-![Posers enabled in Poser HotKeys Data Generator](https://github.com/SamsyTheUnicorn/samsytheunicorn.github.io/blob/main/licentia-poses-img1.png?raw=true)
+Download Poser Hotkeys Plus SSE v2.5.1 (SKSE 2.0.17-2.0.19) (Version 1.0.1) from the Main Files, ILV Poser 0.2.5 (Version 1.0) from the Optional Files, Render Poses 1.0 (Version 1.0) from the Optional Files, and The Meme Poser (Version 1.0) from the Optional Files. Install separately in MO2, choose the following choices in the FOMOD: English, Mfg Fix, and Face Presets. This mod is plugin based and there are no config files on install to edit. Move <i>Poser Hotkeys.esp</i>, <i>ilvPoser Module.esp</i>, <i>Render Poses Module.esp</i>, and <i>MemePoser Module.esp</i> directly below <i>Quickport.esp</i>.
 
-6. You will now have to run Nemesis Unlimited Behavior Engine in MO2, if you receive a message saying *"Changes in file detected. Engine update is required to be performed"* when trying to launch the engine, press Update Engine and then re-open the application once it's completed the update. <br> Similarly to Poser Hotkeys Data Generator, this application has issues with real-time protection software. However, if you have followed these steps, you should now be able to run Nemesis, and update your animations without issue.
+### [PoserDataGen](https://www.nexusmods.com/skyrim/mods/72623)
 
-### SAVE FILES BEWARE
-This guide should be considered experimental as we investigate claims that Poser Hotkeys can be detrimental to save health. <br> It's recommended only to use 20,000 animations max, but it's safer to leave some headroom. I am currently testing what happens in Licentia with a 20,000+ animation list using the aforementioned recommended Poser Packs.
+Download PoserDataGen from the Optional Files. Install manually in MO2, ignoring the MO2 data file warning, this mod is a utility. Once enabled, go to the Data tab in MO2 and navigate to PoserDataGen, then right-click PoserDataGen.exe and Add as Executable.<br>
+Launch PoserDataGen, you will receive an error message about the filepath, in the next window you will be asked to change the filepath for the Skyrim Directory. Set this to wherever your Licentia Stock Game folder is located. If this is done correctly, PoserDataGen will populate with a list of Posers. Exit PoserDataGen and open the MO2 Overwrite files, move the PoserDataGen folder that has appeared to the same folder you installed PoserDataGen in.
 
-### THANK YOU
+### [GSPoses](https://www.loverslab.com/files/file/8148-gsposes-slal/)
+
+Download GSPoses SE 05 06 from the Lovers Lab page. Install manually in MO2, this mod is plugin based and there are no config files on install to edit. Double-click the mod and move to the Optional ESPs tab. Hide <i>_GSPoses.esp</i> <br>
+Launch PoserDataGen and clear all of the Poser selections, only re-enabling GSPoser before generating poser data. Exit PoserDataGen and open the MO2 Overwrite files, move the skse folder that has appeared to the same folder you installed GSPoses in. <br>
+<i><b>Note:</b> You can do this for any poser mods you add that don't have a premade patch for Poser Hotkeys!</i>
+
+### [ILVPoser SE](https://mega.nz/folder/JVlxhIYB#KQERD8mF0EsiB9EL4lxKGg/folder/hUEm1QxK)
+
+Download ILVPoser SE 0.2.5 from the MEGA drive. Install manually in MO2, this mod is plugin based and there are no config files on install to edit. Double-click the mod and move to the Optional ESPs tab. Hide <i>ilvPoser.esp</i>.
+
+### [Render Poses](https://www.loverslab.com/files/file/4630-render-poses/)
+
+Download Render Poses 1.0 SSE from the Lovers Lab page. Install manually in MO2, this mod is plugin based and there are no config files on install to edit. Double-click the mod and move to the Optional ESPs tab. Hide <i>RenderPoses.esp</i>.
+
+### [The Meme Poser](https://collyscraftbook.tumblr.com/post/172530364653/the-meme-poser-its-dope-its-dank-its)
+
+Download The Meme Poser from Collygon's blog. Install manually in MO2, this mod is plugin based and there are no config files on install to edit. Double-click the mod and move to the Optional ESPs tab. Hide <i>MemePoser.esp</i>.
+
+#### THANK YOU
+
 To SlightlyCubed#8313 and iAmMe#3782 for helping me discover Poser Hotkeys Plus and learn more about adding new poser packs to Skyrim SE.
