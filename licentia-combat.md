@@ -56,15 +56,15 @@ Download SkySA 2 (Version 2.8) from the mod page. Install manually in MO2, this 
 Download One Click Power Attack (Version 1.1) from the Main Files, this is a DLL based mod that has configs that require tweaking. Open OneClickPowerAttack.ini and replace the text with the following:
 
 <i>[General]
-Keycode=-1
-AltKey=-1
-ForceKeyCombination=-1
-ForceLeftKey=-1
-ForceDualKey=-1
-ForceRightKey=22
-OnlyDuringAttack=0 
-SkySACompatibility=0
-DisableLongPress=1</i>
+<br>Keycode=-1
+<br>AltKey=-1
+<br>ForceKeyCombination=-1
+<br>ForceLeftKey=-1
+<br>ForceDualKey=-1
+<br>ForceRightKey=22
+<br>OnlyDuringAttack=0 
+<br>SkySACompatibility=0
+<br>DisableLongPress=1</i>
 
 You can change ForceRightKey from "U" to any other key listed [here](https://www.creationkit.com/index.php?title=Input_Script).
 
@@ -108,9 +108,9 @@ Download A Subtle Preset for Stop On Slash (Version 2.0) from the Main Files. In
 Download NFAC - SE (Version 2.0 Updated) from the Google Drive. Install manually in MO2, this mod is DLL based and has configs that require tweaking. Open loki_NFAC.ini and replace the text with the following:
 
 <i>[SETTINGS]
-key=210 
-bProtectNeutralActor=true
-bDisableOutsideCombat=false</i>
+<br>key=210 
+<br>bProtectNeutralActor=true
+<br>bDisableOutsideCombat=false</i>
 
 You can change key from "Insert" to any other key listed [here](https://www.creationkit.com/index.php?title=Input_Script).
 
