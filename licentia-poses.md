@@ -12,7 +12,7 @@ VioLens will conflict with Poser Hotkeys, it will also create issues with my [Co
 
 ### [Poser Hotkeys Plus SSE](https://www.nexusmods.com/skyrimspecialedition/mods/17743)
 
-Download Poser Hotkeys Plus SSE v2.5.1 (SKSE 2.0.17-2.0.19) (Version 1.0.1) from the Main Files, ILV Poser 0.2.5 (Version 1.0) from the Optional Files, Render Poses 1.0 (Version 1.0) from the Optional Files, and The Meme Poser (Version 1.0) from the Optional Files. Install separately in MO2, choose the following choices in the FOMOD: English, Mfg Fix, and Face Presets. This mod is plugin based and there are no config files on install to edit. Move <i>Poser Hotkeys.esp</i>, <i>ilvPoser Module.esp</i>, <i>Render Poses Module.esp</i>, and <i>MemePoser Module.esp</i> directly below <i>Quickport.esp</i>.
+Download Poser Hotkeys Plus SSE v2.5.1 (SKSE 2.0.17-2.0.19) (Version 1.0.1) from the Main Files, ILV Poser 0.2.5 (Version 1.0) from the Optional Files, and Render Poses 1.0 (Version 1.0) from the Optional Files. Install separately in MO2, choose the following choices in the FOMOD: English, Mfg Fix, and Face Presets. This mod is plugin based and there are no config files on install to edit. Move <i>Poser Hotkeys.esp</i>, <i>ilvPoser Module.esp</i>, and <i>Render Poses Module.esp</i> directly below <i>Quickport.esp</i>.
 
 ### [PoserDataGen](https://www.nexusmods.com/skyrim/mods/72623)
 
@@ -33,9 +33,9 @@ Download ILVPoser SE 0.2.5 from the MEGA drive. Install manually in MO2, this mo
 
 Download Render Poses 1.0 SSE from the Lovers Lab page. Install manually in MO2, this mod is plugin based and there are no config files on install to edit. Double-click the mod and move to the Optional ESPs tab. Hide <i>RenderPoses.esp</i>.
 
-### [The Meme Poser](https://collyscraftbook.tumblr.com/post/172530364653/the-meme-poser-its-dope-its-dank-its)
+### Nemesis
 
-Download The Meme Poser from Collygon's blog. Install manually in MO2, this mod is plugin based and there are no config files on install to edit. Double-click the mod and move to the Optional ESPs tab. Hide <i>MemePoser.esp</i>.
+Launch Nemesis, then Update Engine before relaunching Nemesis and pressing the big Launch Nemesis Behavior Engine button. If you receive an error immediately, make sure there is an exception set up for the Licentia folder in your antivirus. If you receive an error about a 32bit hkx file detected, then you have installed a Legendary Edition poser mod, remove it and then re-run Nemesis.
 
 #### THANK YOU
 
