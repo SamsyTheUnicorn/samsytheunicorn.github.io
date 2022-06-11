@@ -120,7 +120,7 @@ Download Vanguard (Version 2.2) from the mod page. Install manually in MO2, this
 
 ### [Impactful Blocking](https://www.skyrim-guild.com/adris-projects/impactful-blocking)
 
-Download Vanguard (Version 2.2) from the mod page. Install manually in MO2, this mod is DAR and plugin based. Move <i>360block.esp</i> directly under <i>Thunderchild - Epic Shout Package</i>. There are no config files on install to edit.
+Download Impactful Blocking (Version 1.4) from the mod page. Install manually in MO2, this mod is DAR and plugin based. Move <i>360block.esp</i> directly under <i>Thunderchild - Epic Shout Package</i>. There are no config files on install to edit.
 
 ### [Block Enchantments](https://www.nexusmods.com/skyrimspecialedition/mods/60833)
 
