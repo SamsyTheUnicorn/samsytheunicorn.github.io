@@ -180,6 +180,38 @@ Download Fishing Rods are Rapiers (Version 1.0) from the Main Files. Install nor
 
 ## FINISHING TOUCHES
 
+### Synthesis
+
+Launch Synthesis and disable SynCGOStavesPatcher under the Synthesis0 group. Click on the tree icon to create a new group titled Combat3. Click on the GitHub Repo icon to search for patchers in repositories. Add SpeedandReachFixes, FrostSpellsNoStaminaDamage, and SynWeaponKeywords to the Combat3 group. Run Synthesis with all the groups enabled. <br>
+Exit Synthesis and move the contents of the MO2 Overwrite to a new mod. Enable all of your Synthesis plugins and launch SSEEdit with <i>Synthesis0.esp</i>, <i>Synthesis1.esp</i>, <i>Undies2.esp</i>, and <i>Combat3.esp</i> enabled. Open the File Header of each mod and change the Record Flags to ESL, when done, press Ctrl+S to save the plugins. In the Messages tab, confirm all plugins respond with "Queued renaming".
+
+### Nemesis
+
+Launch Nemesis, make sure you have the following options enabled:
+
+- Archery Gameplay Overhaul SE
+- MageLock
+- TUDM Attack Cancel
+- Dragon Priest Fix - Behaviour Overhaul
+- Payload Interpreter
+- Impactful Blocking
+- Flinching Animations
+- Hellblade - Timed Block
+- Animated Jump Attack
+- BashBehaviorsOverhaul
+- Retimed Hit Frame
+- SkySA
+- Crouch Sliding
+- AnimatedShouts
+- The Ultimate Dodge Mod
+- Ultimate Combat Creature Compatibility
+
+Update the engine, then relaunch Nemesis before hitting the big Launch Nemesis Behavior Engine button. If you receive an error immediately, make sure there is an exception set up for the Licentia folder in your antivirus and that you are running MO2 as an Administrator. If you receive an error about a 32bit hkx file detected, then you have installed a Legendary Edition poser mod, remove it and then re-run Nemesis.
+
+### Mod Configuration Menu
+
+
+
 #### THANK YOU
 
 To Curly#1759, and bingus the cat#6580 for helping find and fix Combat and Animation mods.
