@@ -6,4 +6,4 @@ All guides are accurate, as of Licentia 10.56
 - [**Introducing, Combat**](licentia-combat.md): My personal overhaul for combat in Licentia, featuring new combat animations and weapons in an attempt to souls-ify the combat system.
 - [**The Sloot Suite**](https://docs.google.com/document/d/1q1CxiZEynyFdRtynsxF5oLziQwtqzQcdiQwipjItHlM/edit?usp=drivesdk): A large collection of outfits and visual enhancements to slootify Licentia, taking it past GOT and towards more degenerate territory (Quality content).
 - [**Curly's Conglomeration of Crap**](https://docs.google.com/document/d/1q1CxiZEynyFdRtynsxF5oLziQwtqzQcdiQwipjItHlM/edit?usp=drivesdk): Another large collection, compiled by Curly, featuring BodySlide and RaceMenu presets with a handy DAR Animation list.
-- [**Video Guides**](https://www.youtube.com/playlist?list=PLuRl4XYwR3uwEwIxombgIwLF-rXudAiCV): Khaotic's video guides for Licentia.
+- [**Video Guides**](https://www.youtube.com/playlist?list=PLuRl4XYwR3uwEwIxombgIwLF-rXudAiCV): Kaotic's video guides for Licentia.
