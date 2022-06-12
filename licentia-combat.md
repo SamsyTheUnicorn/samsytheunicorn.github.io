@@ -154,6 +154,14 @@ Download KillmoveParalysisFix SE (Version 1.0.0) from the Main Files. Install no
 
 Download Post-hit Killmove SE (Version 1.1.3) from the Main Files. Install normally in MO2, this mod is DLL based and has no edits required for the config files.
 
+### [Smoothcam - Octavian's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/43927)
+
+Download SmoothCam - Octavian's Preset 1.1.2 from the Main Files. Install normally in MO2, this mod has no edits required for the config files.
+
+### [Elden Sprint Perk](https://github.com/SamsyTheUnicorn/samsytheunicorn.github.io/blob/main/Elden%20Sprint%20Perk.7z)
+
+Download Elden Sprint Perk from the GitHub Repo. Install normally in MO2, this mod is plugin based and has no config files on install. Move <i>EldenSprintPerk.esp</i> directly below <i>Imperious - Races of Skyrim</i>.
+
 ### [Animated Armoury - DAR Version](https://www.nexusmods.com/skyrimspecialedition/mods/35978)
 
 Download Animated Armoury (Version 2.3) from the Main Files, Animated Armour - Heavy Armoury Compatibility Patch (Version 2) from the Optional Files, and Animated Armoury - Immersive Weapons Patch (Version 2.3) from the Optional Files. Install separately in MO2, this mod is DAR and plugin based and has no config files on install to edit. Move <i>NewArmoury.esp</i>, <i>AnimatedHeavyArmoury.esp</i>, and <i>Animated Immersive Weaps.esp</i> directly below <i>Eli's Coffee Mod.esp</i>.
@@ -177,6 +185,11 @@ Download Relics Weapon Keywords - Animated Armory Patch 6.6.1.G - ESL Version-pa
 ### [Fishing Rods are Rapiers - Animated Armoury](https://www.nexusmods.com/skyrimspecialedition/mods/58924)
 
 Download Fishing Rods are Rapiers (Version 1.0) from the Main Files. Install normally in MO2, this mod is plugin based and has no config files on install to edit. Move <i>Fishing Rods are Rapiers.esp</i> directly below <i>AnimatedArmory-ROH.esp</i>.
+
+### [Animated Armoury - Legacy of Dragonborn Displays](https://www.nexusmods.com/skyrimspecialedition/mods/38813)
+
+Download DBM New Armoury - DAR (Version 1.2) from the Main Files and LOTD_TCC_NewArmoury from [MediaFire](https://www.mediafire.com/file/6rgg9nfevvvbwn9/LOTD_TCC_NewArmoury.esp/file). Install normally in MO2, this mod is plugin based and has no config files on install to edit. Move <i>DBM_NewArmoury.esp</i> and <i>LOTD_TCC_NewArmoury.esp</i> directly below <i>DBM_RelicHunter.esp</i>.
+
 
 ## FINISHING TOUCHES
 
@@ -210,7 +223,11 @@ Update the engine, then relaunch Nemesis before hitting the big Launch Nemesis B
 
 ### Mod Configuration Menu
 
+Launch the game and load up a save with the character you would like to use the overhaul with. Open your MCM settings and select the Wildcat Combat tab and enable Disable Timed Block. Open the Ordinator Perks tab and enable Timed Block: Squelch Message. <br> Out of the menu, open your console and type <i>help TarnishedSprint</i> and then make a note of the ID for ELDSPR_TarnishedSprint_Spell. Finally type <i>player.addspell ID</i>. This will add the Tarnished Sprint perk, granting 5% disease resistance and infinite stamina for sprinting out of combat. I chose to use this butchered version of Imperious' Nomadic Heritage because the script-based Nomadic Sprint mod had reported issues I would like to avoid.
 
+### A Note
+
+This combat overhaul will have it's own level of jank now and then. You will only get the full experience in third person and for the first few seconds while the game loads animations, you may be stuck in a T-Pose, this is expected but the animation load is kept light at ~13K animations in Nemesis, far from the 20K recommended cap.
 
 #### THANK YOU
 
