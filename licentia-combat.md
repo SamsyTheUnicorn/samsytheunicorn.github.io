@@ -209,9 +209,10 @@ Launch Nemesis, make sure you have the following options enabled:
 - Payload Interpreter
 - Impactful Blocking
 - Flinching Animations
-- Hellblade - Timed Block
+- Hellblade - Timed Block (Only if installed)
 - Animated Jump Attack
 - BashBehaviorsOverhaul
+- Skyrim's Paraglider
 - Retimed Hit Frame
 - SkySA
 - Crouch Sliding
@@ -219,7 +220,7 @@ Launch Nemesis, make sure you have the following options enabled:
 - The Ultimate Dodge Mod
 - Ultimate Combat Creature Compatibility
 
-Update the engine, then relaunch Nemesis before hitting the big Launch Nemesis Behavior Engine button. If you receive an error immediately, make sure there is an exception set up for the Licentia folder in your antivirus and that you are running MO2 as an Administrator. If you receive an error about a 32bit hkx file detected, then you have installed a Legendary Edition poser mod, remove it and then re-run Nemesis.
+Update the engine, then relaunch Nemesis before hitting the big Launch Nemesis Behavior Engine button. If you receive an error immediately, make sure there is an antivirus exception set up for the Licentia folder in your antivirus and that you are running MO2 as an Administrator. If you receive an error about a 32bit hkx file detected, then you have installed a Legendary Edition poser mod, remove it and then re-run Nemesis.
 
 ### Mod Configuration Menu
 
