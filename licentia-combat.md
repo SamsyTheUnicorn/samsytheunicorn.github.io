@@ -223,7 +223,7 @@ Update the engine, then relaunch Nemesis before hitting the big Launch Nemesis B
 
 ### Mod Configuration Menu
 
-Launch the game and load up a save with the character you would like to use the overhaul with. Open your MCM settings and select the Wildcat Combat tab and enable Disable Timed Block. Open the Ordinator Perks tab and enable Timed Block: Squelch Message. <br> Out of the menu, open your console and type <i>help TarnishedSprint</i> and then make a note of the ID for ELDSPR_TarnishedSprint_Spell. Finally type <i>player.addspell ID</i>. This will add the Tarnished Sprint perk, granting 5% disease resistance and infinite stamina for sprinting out of combat. I chose to use this butchered version of Imperious' Nomadic Heritage because the script-based Nomadic Sprint mod had reported issues I would like to avoid.
+Launch the game and load up a save with the character you would like to use the overhaul with. Open your MCM settings and select the Wildcat Combat tab and enable Disable Timed Block. Open the Ordinator Perks tab and enable Timed Block: Squelch Message. Open the SmoothCam tab and load Octavian's Preset. <br> Out of the menu, open your console and type <i>help TarnishedSprint</i> and then make a note of the ID for ELDSPR_TarnishedSprint_Spell. Finally type <i>player.addspell ID</i>. This will add the Tarnished Sprint perk, granting 5% disease resistance and infinite stamina for sprinting out of combat. I chose to use this butchered version of Imperious' Nomadic Heritage because the script-based Nomadic Sprint mod had reported issues I would like to avoid.
 
 ### A Note
 
