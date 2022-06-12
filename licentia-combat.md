@@ -195,7 +195,7 @@ Download DBM New Armoury - DAR (Version 1.2) from the Main Files and LOTD_TCC_Ne
 
 ### Synthesis
 
-Launch Synthesis and disable SynCGOStavesPatcher under the Synthesis0 group. Click on the tree icon to create a new group titled Combat3. Click on the GitHub Repo icon to search for patchers in repositories. Add SpeedandReachFixes, FrostSpellsNoStaminaDamage, and SynWeaponKeywords to the Combat3 group. Run Synthesis with all the groups enabled. <br>
+Disable <i>Synthesis0.esp</i>, <i>Synthesis1.esp</i>, and <i>Undies2.esp</i> in the Plugins tab of MO2. Launch Synthesis and disable SynCGOStavesPatcher under the Synthesis0 group. Click on the tree icon to create a new group titled Combat3. Click on the GitHub Repo icon to search for patchers in repositories. Add SpeedandReachFixes, FrostSpellsNoStaminaDamage, and SynWeaponKeywords to the Combat3 group. Run Synthesis with all the groups enabled. <br>
 Exit Synthesis and move the contents of the MO2 Overwrite to a new mod. Enable all of your Synthesis plugins and launch SSEEdit with <i>Synthesis0.esp</i>, <i>Synthesis1.esp</i>, <i>Undies2.esp</i>, and <i>Combat3.esp</i> enabled. Open the File Header of each mod and change the Record Flags to ESL, when done, press Ctrl+S to save the plugins. In the Messages tab, confirm all plugins respond with "Queued renaming".
 
 ### Nemesis
