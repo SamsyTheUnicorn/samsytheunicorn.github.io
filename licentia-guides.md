@@ -7,3 +7,4 @@ All guides are accurate, as of Licentia 10.56
 - [**The Sloot Suite**](https://docs.google.com/document/d/1q1CxiZEynyFdRtynsxF5oLziQwtqzQcdiQwipjItHlM/edit?usp=drivesdk): A large collection of outfits and visual enhancements to slootify Licentia, taking it past GOT and towards more degenerate territory (Quality content).
 - [**Curly's Conglomeration of Crap**](https://docs.google.com/document/d/1q1CxiZEynyFdRtynsxF5oLziQwtqzQcdiQwipjItHlM/edit?usp=drivesdk): Another large collection, compiled by Curly, featuring BodySlide and RaceMenu presets with a handy DAR Animation list.
 - [**Video Guides**](https://www.youtube.com/playlist?list=PLuRl4XYwR3uwEwIxombgIwLF-rXudAiCV): Kaotic's video guides for Licentia.
+- [**LoadOrderLibrary**](https://loadorderlibrary.com/lists/samsys-licentia-v1056): My personal LoadOrderLibrary including all additions.
