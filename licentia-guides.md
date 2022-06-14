@@ -1,5 +1,6 @@
 ## LICENTIA ADDITIONS
-All guides are accurate, as of Licentia 10.56
+All guides are accurate, as of Licentia 10.56.<br>
+If you run into any issues or errors, <b>do not contact guide authors directly</b>, consult the #licentia-additions first. Authors should only be contacted if a guide has an issue such as broken links or formatting.
 - [**Introducing, Futa**](licentia-futa.md): A guide on how to add futanari options to Licentia, create blended textures, and tweak OAlign/OStim to resolve mis-alignment issues.
 - [**Introducing, M'rissi**](licentia-mrissi.md): A guide on how to add M'rissi with minimal issues to Licentia and integrate into Legacy of the Dragonborn alongside other companion mods.
 - [**Introducing, Poses**](licentia-poses.md): A guide on how to use Poser Hotkeys Plus to add different poser packs to Licentia, and convert packs to be used ESP-less with Poser Hotkeys Plus.
